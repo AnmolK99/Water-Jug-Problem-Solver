@@ -3,5 +3,8 @@ This Android application is Developed to solve and show the detailed step-by-ste
 Its an android Application file(.apk) runnable on any Android device with Android 4.0 or above.
 
 
+    Working Video  
+![Working Videol_image](https://github.com/AnmolK99/Water-Jug-Problem-Solver/blob/master/Images/Working_Video.gif)
+
 
 this is one of Initial first released Version 1.0.2.1
