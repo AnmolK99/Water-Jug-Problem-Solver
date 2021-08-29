@@ -6,6 +6,7 @@ Its an android Application file(.apk) runnable on any Android device with Androi
 
 We are given 2 Jugs of fix volume(in units) and an unlimited supply of Water, we have to get some specific fixed quantity of water in one/both of these jugs by pouring water from one jug to another rules are - 
 - While pouring the water you have to pour till the pouring jug is completely empty or the jug on which we are pouring is completly filled.
+- You can pour out all the water into soil to empty the jug. 
 - The Jugs have no markings and is of irregular shape so you cannot guess quantity unless jug is filled or enmpty.
 - You have infinite water supply hence you can take and throw water as much as you like.
 
