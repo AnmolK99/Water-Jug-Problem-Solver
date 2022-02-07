@@ -41,4 +41,4 @@ Steps for getting water in jug
 
 Initial first released Version 1.0.2.1
 
-- Anmol Kesherwani
+edited by Anmol Kesherwani
